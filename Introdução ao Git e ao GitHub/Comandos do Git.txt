@@ -1,0 +1,6 @@
+	Para qualquer arquivo ou pastas criadas localmente no computador, é necessário executar o comando git add ., esse comando irá
+incluir essas informações colacada na máquina local também serem atualizadas no servidor remoto do github.
+	Para verificar se existe informações a serem atualizadas no servidor remoto do git, é só executar o comando
+git status no git bash, no console do git bash as informações que ainda não foram atualizadas irão aparecer em vermelho.
+	Para enviar ou atualizar essas informações, executar o comando git add ., ou git add -A, após executar esse comando
+se executarmos novamente o comando git status, aquela informação que apareceu em vermelho irá aparecer na cor verde agora.
